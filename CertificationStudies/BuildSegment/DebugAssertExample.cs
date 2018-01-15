@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace CertificationStudies.BuildSegment
+namespace CertificationStudies
 {
     public class DebugAssertExample
     {

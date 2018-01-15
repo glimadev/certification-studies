@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CertificationStudies.BuildSegment
+namespace CertificationStudies
 {
     public class BuildSegmentExample
     {

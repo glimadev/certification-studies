@@ -42,6 +42,8 @@
   <ItemGroup>
     <Compile Include="BuildSegment\BuildSegmentExample.cs" />
     <Compile Include="BuildSegment\DebugAssertExample.cs" />
+    <Compile Include="Checked\CheckedExample.cs" />
+    <Compile Include="Formatter\FormatterExample.cs" />
     <Compile Include="Lists\ArrayExample.cs" />
     <Compile Include="Lists\HashTableExample.cs" />
     <Compile Include="Lists\LinkedListExample.cs" />

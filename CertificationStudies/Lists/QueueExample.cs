@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CertificationStudies.Lists
+namespace CertificationStudies
 {
     public class QueueExample
     {

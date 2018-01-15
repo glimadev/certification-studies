@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace CertificationStudies.Lists
+namespace CertificationStudies
 {
     public class SortedListExample
     {

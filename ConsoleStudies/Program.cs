@@ -1,4 +1,4 @@
-﻿using CertificationStudies.BuildSegment;
+﻿using CertificationStudies;
 using System;
 
 namespace ConsoleStudies
@@ -14,7 +14,13 @@ namespace ConsoleStudies
 
             //Build Segment
             //new BuildSegmentExample().Run();
-            new DebugAssertExample().Run();
+            //new DebugAssertExample().Run();
+
+            //Checked
+            //new CheckedExample().Run();
+
+            //Formatter
+            new FormatterExample().Run();
 
             Console.ReadLine();
         }
